@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_api",
+  "version": "1.0.0",
+  "description": "node.js restful-api project",
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.x",
+    "morgan": "1.x",
+    "body-parser": "1.x",
+    "method-override": "1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitoshub/nodejs_api.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "restful",
+    "api"
+  ],
+  "author": "bitoshub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitoshub/nodejs_api/issues"
+  },
+  "homepage": "https://github.com/bitoshub/nodejs_api"
+}
